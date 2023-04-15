@@ -24,7 +24,7 @@ public class T1_Staples_xpath_index extends Reuseable_Annotations {
         Reuseable_methods_logger.clickMethod(driver,"(//*[@class='standard-tile__image standard-tile__image_hover'])[3]",logger,"Iphone Image");
 
         Thread.sleep(2000);
-
+        //test
     }//end of test 1
    
 }//end of class
