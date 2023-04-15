@@ -28,4 +28,6 @@ public class T2_Google_Search_Logger_Automation_Xpath_xml extends Reuseable_Anno
         logger.log(LogStatus.INFO,"Search number for cricket: " + arrayResult[1]);
     }//end of test 2
 
+    //my new test info
+
 }//end of class
